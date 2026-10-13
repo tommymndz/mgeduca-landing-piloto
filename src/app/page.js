@@ -17,7 +17,7 @@ export default function Home() {
               </p>
               <p className="text-slate-300 max-w-2xl leading-relaxed">
                 Utilizamos cookies y tecnologías de seguimiento para optimizar tu experiencia y gestionar las inscripciones a nuestros talleres. Al continuar navegando, aceptas nuestra{' '}
-                <a href="#" className="text-cyan-400 underline hover:text-cyan-300 font-semibold">
+                <a href="/privacidad" className="text-cyan-400 underline hover:text-cyan-300 font-semibold">
                   Política de Privacidad
                 </a>.
               </p>
@@ -79,7 +79,7 @@ export default function Home() {
               <span>⏰ Horario: 10:00 - 13:00 hrs</span>
             </div>
             <div className="flex items-center gap-2 bg-white px-4 py-2 rounded-lg border border-slate-200 shadow-2xs">
-              <span>💻 Modalidad: En vivo vía Zoom</span>
+              <span>💻 Modalidad: En vivo vía Online</span>
             </div>
           </div>
         </div>
