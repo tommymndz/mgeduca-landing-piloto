@@ -172,7 +172,7 @@ export default function Home() {
                 required 
               />
               <label htmlFor="privacy" className="text-xs text-slate-600 leading-tight">
-                Acepto la <a href="#" className="text-cyan-700 underline font-semibold">Política de Privacidad</a> y autorizo el tratamiento de mis datos personales para gestionar la inscripción conforme a la Ley N° 21.719.
+                Acepto la <a href="/privacidad" className="text-cyan-700 underline font-semibold">Política de Privacidad</a> y autorizo el tratamiento de mis datos personales para gestionar la inscripción conforme a la Ley N° 21.719.
               </label>
             </div>
 
